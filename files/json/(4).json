@@ -1,0 +1,30 @@
+{
+  "name": "Whanki #4",
+  "description": "Another unusual NFT",
+  "file_url": "ipfs://NewUriToReplace/4.png",
+  "custom_fields": {
+    "dna": "47982894aa8661485c2c8678c08453add025a774",
+    "edition": 4,
+    "date": 1643886303545,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "4",
+      "value": "3"
+    },
+    {
+      "trait_type": "3",
+      "value": "1"
+    },
+    {
+      "trait_type": "2",
+      "value": "2"
+    },
+    {
+      "trait_type": "1",
+      "value": "1"
+    }
+  ]
+}

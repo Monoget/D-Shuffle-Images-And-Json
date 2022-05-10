@@ -6,8 +6,8 @@ save_number = []
 
 j=1
 
-while j<=5:
-    random_id=choice([i for i in range(1,6) if i not in save_number])
+while j<=500:
+    random_id=choice([i for i in range(1,501) if i not in save_number])
     print("Serial: "+str(j), "Random: "+str(random_id))
     shutil.copy("files/images/ ("+str(j)+").png", "outputfiles/images/"+str(random_id)+".png")
 
@@ -15,11 +15,11 @@ while j<=5:
     json_object = json.load(a_file)
     print(json_object)
 
-    json_object["name"] = "Whanki #"+str(random_id)
+    json_object["name"] = "Chubb Club #"+str(random_id)
 
-    json_object["file_url"] = "ipfs://NewUriToReplace/"+str(random_id)+".png"
+    json_object["image"] = "ipfs://NewUriToReplace/"+str(random_id)+".png"
 
-    json_object["custom_fields"]["edition"] = random_id
+    json_object["edition"] = random_id
 
     jsonFile = open("outputfiles/json/"+str(random_id)+".json", "w")
     jsonFile.write(json.dumps(json_object))

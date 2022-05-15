@@ -9,11 +9,11 @@
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Purple"
         },
         {
             "trait_type": "Back",
-            "value": "None"
+            "value": "Phat General Yellow"
         },
         {
             "trait_type": "Skin",
@@ -37,15 +37,15 @@
         },
         {
             "trait_type": "Head",
-            "value": "Beanie Blue"
+            "value": "Fishing Hat Silver"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cheerful"
+            "value": "Exhausted"
         },
         {
             "trait_type": "Accessories",
-            "value": "Sundae"
+            "value": "None"
         }
     ],
     "properties": {

@@ -1,31 +1,35 @@
 {
-    "name": "Phat Cubz #1",
+    "name": "Phat Cubz #331",
     "symbol": "PC",
     "description": "Phat Cubz is a collection of NFTs on the Solana Blockchain, aiming to promote fitness and healthy living through a series of community-wide fitness challenges.",
     "seller_fee_basis_points": 1000,
-    "image": "ipfs://NewUriToReplace/1.png",
+    "image": "ipfs://NewUriToReplace/331.png",
     "external_url": "",
-    "edition": "1",
+    "edition": "331",
     "attributes": [
         {
+            "trait_type": "Name",
+            "value": "Tadakatsu"
+        },
+        {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Phat Heroes"
         },
         {
             "trait_type": "Back",
-            "value": "None"
+            "value": "Tadakatsu Clan"
         },
         {
             "trait_type": "Skin",
-            "value": "Robot"
+            "value": "Stitched"
         },
         {
             "trait_type": "Clothes",
-            "value": "Sweater Green"
+            "value": "Tadakatsu"
         },
         {
             "trait_type": "Eyes",
-            "value": "Crying"
+            "value": "Wasn\u2019t me"
         },
         {
             "trait_type": "Eyewear",
@@ -33,25 +37,25 @@
         },
         {
             "trait_type": "Neck",
-            "value": "Cross"
+            "value": "None"
         },
         {
             "trait_type": "Head",
-            "value": "Beanie Blue"
+            "value": "Tadakatsu"
         },
         {
             "trait_type": "Mouth",
-            "value": "Cheerful"
+            "value": "Arghh"
         },
         {
             "trait_type": "Accessories",
-            "value": "Sundae"
+            "value": "None"
         }
     ],
     "properties": {
         "files": [
             {
-                "uri": "1.png",
+                "uri": "331.png",
                 "type": "image/png"
             }
         ],

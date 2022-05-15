@@ -1,0 +1,66 @@
+{
+  "name": "Phat Cubz #0",
+  "symbol": "PC",
+  "description": "Phat Cubz is a collection of NFTs on the Solana Blockchain, aiming to promote fitness and healthy living through a series of community-wide fitness challenges.",
+  "seller_fee_basis_points": 1000,
+  "image": "0.png",
+  "external_url": "",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Phat General Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Cerulean"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Wuxia Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lazy"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Emporer Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampire"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Dragon Sword"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Ha9dPpf4rDNAXsnQAi9qWWrKP5FKyPvV5buK6A4SiiD6",
+        "share": 100
+      }
+    ]
+  }
+}

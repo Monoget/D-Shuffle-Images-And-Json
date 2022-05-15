@@ -1,6 +1,6 @@
 import json
 
-j = 1
+j = 0
 
 while j <= 1800:
     a_file = open("outputfiles/json/" + str(j) + ".json", "r")
